@@ -10,6 +10,12 @@ https://user-images.githubusercontent.com/92098387/174602430-410d7d67-fe98-4b90-
 
 
 
+
+https://user-images.githubusercontent.com/92098387/174602828-2716da59-789f-4d24-bc87-a245c7bae42c.mp4
+
+
+
+
 ## 🚀 About Me
 I am an embedded system developer and a PCB designer, I am very curious about the world of electronics and I share this topic and many others in order to help each other and share our knowledge
 ## 🔗 Links
