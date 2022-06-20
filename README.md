@@ -6,6 +6,10 @@ This is an introduction to Linear AC-DC Power Supplies .. i will share all the n
 Link : Loading...
 
 
+https://user-images.githubusercontent.com/92098387/174602430-410d7d67-fe98-4b90-a378-89e308577932.mp4
+
+
+
 ## 🚀 About Me
 I am an embedded system developer and a PCB designer, I am very curious about the world of electronics and I share this topic and many others in order to help each other and share our knowledge
 ## 🔗 Links
